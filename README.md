@@ -1,4 +1,8 @@
-Hi, I'm Druhan Shah, a student of Computer Science and Computational Linguistics in IIIT Hyderabad, and a mathematics and science enthusiast.  
-I am able to code in C++, Python, JavaScript and CSS.  
+# Hi, I'm Druhan!
 
-Any collabs, project ideas, suggestions, or contributions are most welcome!
+I'm an undergraduate student in Computational Linguistics at IIIT Hyderabad.
+I can comfortably work with the following languages (in descending order of skill):
+- Python
+- Lua
+- C/C++
+- Javascript
